@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Ayu Mirage",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "editor.lineNumbers": "relative",
+    "editor.inlayHints.enabled": "on",
+    "editor.rulers": [80],
+    "vim.useSystemClipboard": true,
+}
